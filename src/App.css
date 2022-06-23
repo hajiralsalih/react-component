@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.ProfilePhoto{
+  text-align: center;
+}
+
+.postion{
+ margin:50px 0 0  964px;
+ color: rgb(250, 247, 247);
+}
+
+.FullName{
+ font-size: 18px;
+}
+
+.ttext{
+  font-size: 21px;
+  color: #000;
+  background-color: #fff;
+  padding: 25px;
+}
+/*  */
+
+
+
+
+
